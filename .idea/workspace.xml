@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6423cfc-56c5-43a8-acf7-8401a7ffae90" name="Default Changelist" comment="this code is used to split the data into training, validation and testing sets" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1d6utjXlD3iKZzmalgDX4UKgjAp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Python.split_dataset">
+    <configuration name="check_bc" type="PythonConfigurationType" factoryName="Python">
+      <module name="new_classification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\installed\anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/check_band_combination.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dataio" type="PythonConfigurationType" factoryName="Python">
+      <module name="new_classification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataio.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="draw_figures" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="new_classification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/draw_figures.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="new_classification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="segmentation" type="PythonConfigurationType" factoryName="Python">
+      <module name="new_classification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/segmentation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="split_dataset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="topology-based framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\installed\anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/split_dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python">
+      <module name="new_classification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_my_code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="toolkit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="new_classification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/toolkit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="utility_functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="new_classification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utility_functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="visualization" type="PythonConfigurationType" factoryName="Python">
+      <module name="new_classification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\installed\anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/visualization.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.check_bc" />
+      <item itemvalue="Python.dataio" />
+      <item itemvalue="Python.segmentation" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.visualization" />
+      <item itemvalue="Python.draw_figures" />
+      <item itemvalue="Python.main1" />
+      <item itemvalue="Python.split_dataset" />
+      <item itemvalue="Python.toolkit" />
+      <item itemvalue="Python.utility_functions" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.split_dataset" />
+        <item itemvalue="Python.draw_figures" />
+        <item itemvalue="Python.utility_functions" />
+        <item itemvalue="Python.main1" />
+        <item itemvalue="Python.toolkit" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6423cfc-56c5-43a8-acf7-8401a7ffae90" name="Default Changelist" comment="" />
+      <created>1591758080217</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591758080217</updated>
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1610492235613</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610492235613</updated>
+    </task>
+    <task id="LOCAL-00002" summary="this code is used to split the data into training, validation and testing sets">
+      <created>1610492612744</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610492612744</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updated the code for splitting dataset">
+      <created>1610505354062</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610505354062</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <MESSAGE value="this code is used to split the data into training, validation and testing sets" />
+    <MESSAGE value="updated the code for splitting dataset" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated the code for splitting dataset" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="301" y="191" width="1089" height="881" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610505138676">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="301" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.920@0.0.1707.920" timestamp="1610505138676" />
+    <state x="361" y="231" width="1089" height="881" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1608147532906" />
+    <state x="583" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610474743500">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="583" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1707.920@0.0.1707.920" timestamp="1610474743500" />
+    <state x="772" y="214" key="FileChooserDialogImpl" timestamp="1609642339280">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="772" y="214" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1609642339280" />
+    <state x="926" y="259" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1608152630123" />
+    <state width="1683" height="298" key="GridCell.Tab.0.bottom" timestamp="1610505061827">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1260" height="28" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1608935390154" />
+    <state width="1442" height="194" key="GridCell.Tab.0.bottom/0.0.1463.783@0.0.1463.783" timestamp="1608444434460" />
+    <state width="1683" height="298" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1610505061827" />
+    <state width="2027" height="302" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1608441278636" />
+    <state width="1683" height="298" key="GridCell.Tab.0.center" timestamp="1610505061827">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1260" height="28" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1608935390154" />
+    <state width="1442" height="194" key="GridCell.Tab.0.center/0.0.1463.783@0.0.1463.783" timestamp="1608444434460" />
+    <state width="1683" height="298" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1610505061827" />
+    <state width="2027" height="302" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1608441278636" />
+    <state width="1683" height="298" key="GridCell.Tab.0.left" timestamp="1610505061827">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1260" height="28" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1608935390154" />
+    <state width="1442" height="194" key="GridCell.Tab.0.left/0.0.1463.783@0.0.1463.783" timestamp="1608444434460" />
+    <state width="1683" height="298" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1610505061827" />
+    <state width="2027" height="302" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1608441278636" />
+    <state width="1683" height="298" key="GridCell.Tab.0.right" timestamp="1610505061827">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1260" height="28" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1608935390154" />
+    <state width="1442" height="194" key="GridCell.Tab.0.right/0.0.1463.783@0.0.1463.783" timestamp="1608444434460" />
+    <state width="1683" height="298" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1610505061827" />
+    <state width="2027" height="302" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1608441278636" />
+    <state width="1683" height="298" key="GridCell.Tab.1.bottom" timestamp="1610505061827">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1683" height="298" key="GridCell.Tab.1.bottom/0.0.1707.920@0.0.1707.920" timestamp="1610505061827" />
+    <state width="2027" height="376" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1608097978228" />
+    <state width="1683" height="298" key="GridCell.Tab.1.center" timestamp="1610505061827">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1683" height="298" key="GridCell.Tab.1.center/0.0.1707.920@0.0.1707.920" timestamp="1610505061827" />
+    <state width="2027" height="376" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1608097978228" />
+    <state width="1683" height="298" key="GridCell.Tab.1.left" timestamp="1610505061827">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1683" height="298" key="GridCell.Tab.1.left/0.0.1707.920@0.0.1707.920" timestamp="1610505061827" />
+    <state width="2027" height="376" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1608097978228" />
+    <state width="1683" height="298" key="GridCell.Tab.1.right" timestamp="1610505061827">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1683" height="298" key="GridCell.Tab.1.right/0.0.1707.920@0.0.1707.920" timestamp="1610505061827" />
+    <state width="2027" height="376" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1608097978228" />
+    <state x="355" y="106" key="SettingsEditor" timestamp="1610506698387">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="355" y="106" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1610506698387" />
+    <state x="445" y="193" key="Vcs.Push.Dialog.v2" timestamp="1610506591608">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="445" y="193" key="Vcs.Push.Dialog.v2/0.0.1707.920@0.0.1707.920" timestamp="1610506591608" />
+    <state width="1032" height="566" key="XDebugger.FullValuePopup" timestamp="1604375273569">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1032" height="566" key="XDebugger.FullValuePopup/0.0.2048.1112@0.0.2048.1112" timestamp="1604375273569" />
+    <state x="680" y="194" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1610505180768">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="680" y="194" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1707.920@0.0.1707.920" timestamp="1610505180768" />
+    <state x="842" y="470" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608147753130">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="842" y="470" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2048.1112@0.0.2048.1112" timestamp="1608147753130" />
+    <state x="573" y="201" width="672" height="561" key="search.everywhere.popup" timestamp="1609108855918">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="573" y="201" width="672" height="561" key="search.everywhere.popup/0.0.1707.920@0.0.1707.920" timestamp="1609108855918" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1604350219273" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../CSCI5980/hw3_mnistcnn.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
