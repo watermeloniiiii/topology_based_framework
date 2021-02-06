@@ -26,7 +26,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6423cfc-56c5-43a8-acf7-8401a7ffae90" name="Default Changelist" comment="this code is used to split the data into training, validation and testing sets" />
+    <list default="true" id="f6423cfc-56c5-43a8-acf7-8401a7ffae90" name="Default Changelist" comment="this code is used to split the data into training, validation and testing sets">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -274,14 +277,14 @@
     <list>
       <item itemvalue="Python.check_bc" />
       <item itemvalue="Python.dataio" />
-      <item itemvalue="Python.segmentation" />
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.visualization" />
       <item itemvalue="Python.draw_figures" />
       <item itemvalue="Python.main1" />
+      <item itemvalue="Python.segmentation" />
       <item itemvalue="Python.split_dataset" />
+      <item itemvalue="Python.test" />
       <item itemvalue="Python.toolkit" />
       <item itemvalue="Python.utility_functions" />
+      <item itemvalue="Python.visualization" />
     </list>
     <recent_temporary>
       <list>
